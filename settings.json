@@ -1,12 +1,12 @@
 {
   "tokens": {
-    "main": "",
+    "main": "OTMzNjU2Njk2ODU1ODgzODY2.G4ahYQ.kWdENi3-AYRgIPBp0lTLmjlKx7sYi4XNmnUdKE",
     "alts": [
       ""
     ]
   },
   "status": {
-    "main": "",
+    "main": "dnd",
     "alts": "invisible"
   },
   "nitro": {
@@ -18,7 +18,7 @@
   "giveaway": {
     "enable": true,
     "delay": 15,
-    "dm": "Hey, I won a giveaway !",
+    "dm": "",
     "dm_delay": 25,
     "blacklist_words": [
       "bot",
@@ -31,7 +31,7 @@
     "blacklist_servers": []
   },
   "invite": {
-    "enable": true,
+    "enable": false,
     "delay": {
       "min": 10,
       "max": 20
@@ -43,8 +43,8 @@
     "enable": false
   },
   "webhook": {
-    "url": "",
-    "good_only": false
+    "url": "https://discord.com/api/webhooks/946683544367951915/HvLtwx8ZIaKi89Y5syghIIv6JU4SqNIrNHeOQ_aYpF-0LSssxoYV6su21l60zfQcicBA",
+    "good_only": true
   },
   "blacklist_servers": []
 }
